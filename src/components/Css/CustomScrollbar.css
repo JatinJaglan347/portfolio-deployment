@@ -1,0 +1,22 @@
+/* CustomScrollbar.css */
+
+/* Hide the default scrollbar */
+::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #0073ff; /* Color of the scrollbar handle */
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #92979a; /* Color of the scrollbar handle on hover */
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #161616; /* Color of the scrollbar track */
+  }
