@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { FaGithub } from "react-icons/fa";
-import {Link , NavLink} from "react-router-dom"
+import { NavLink} from "react-router-dom"
 
 export class header extends Component {
     render() {

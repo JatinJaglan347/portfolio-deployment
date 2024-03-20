@@ -3,7 +3,6 @@ import Navbar from './Navbar'
 import Header from './header.jsx'
 import { Outlet } from 'react-router-dom'
 import Footer from './Footer'
-import LoadingBar from 'react-top-loading-bar'
 
 
 
