@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { FaGithub } from "react-icons/fa";
 import { NavLink} from "react-router-dom"
 
-export class header extends Component {
+export class Header extends Component {
     render() {
         return (
             <>
@@ -23,4 +23,4 @@ export class header extends Component {
     }
 }
 
-export default header
+export default Header;

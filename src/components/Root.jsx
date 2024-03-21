@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Navbar from './Navbar'
-import Header from './header.jsx'
+import Header from './Header.jsx'
 import { Outlet } from 'react-router-dom'
 import Footer from './Footer'
 
